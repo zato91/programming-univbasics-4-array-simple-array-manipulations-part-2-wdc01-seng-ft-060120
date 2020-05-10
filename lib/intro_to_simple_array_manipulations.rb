@@ -6,11 +6,11 @@ def using_insert(array1,element)
   array1.insert(element)
 end
 
-def using_insert(array1,element)
-  array1.insert(element)
+def using_uniq(array1)
+  array1.uniq
 end
 
-def using_flatten(array1,element)
+def using_flatten(array1)
   array1.insert(element)
 end
 
