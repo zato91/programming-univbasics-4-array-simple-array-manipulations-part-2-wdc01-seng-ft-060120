@@ -10,7 +10,7 @@ def using_insert(array1,element)
   array1.insert(element)
 end
 
-def using_insert(array1,element)
+def using_flatten(array1,element)
   array1.insert(element)
 end
 
