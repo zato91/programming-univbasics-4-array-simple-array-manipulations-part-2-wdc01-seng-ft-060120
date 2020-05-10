@@ -11,13 +11,13 @@ def using_uniq(array1)
 end
 
 def using_flatten(array1)
-  array1.insert(element)
+  array1.flatten
 end
 
 def using_delete(array1,element)
-  array1.insert(element)
+  array1.delete(element)
 end
 
-def using_delete_at(array1,element)
-  array1.insert(element)
+def using_delete_at(array1,Int)
+  array1.delete_at(Int)
 end
