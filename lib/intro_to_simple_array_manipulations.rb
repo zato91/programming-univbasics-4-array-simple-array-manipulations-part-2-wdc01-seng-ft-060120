@@ -20,6 +20,6 @@ def using_delete(array1,element)
   array1.delete(element)
 end
 
-def using_delete_at(array1,Int)
-  array1.delete_at(Int)
+def using_delete_at(array1,element)
+  array1.delete_at(element)
 end
